@@ -1,7 +1,22 @@
 "use strict"; // treall all js code newer version
 
 // Datatypes and ECMA standards
+let name = "Tushar"
+let age = 20
+let isLoggedIn = false
 
+// number  => 2 to power 53
+// ibgint 
+// string => ""
+// boolean => true / false
+// null => standalone value
+// undefined => 
+// symbol => 
+
+// object
+
+console.log(typeof null)    // object
+console.log(typeof undefined) // undefined 
 let counter = 120;  // counter is a number
 counter = false;    //counter is now a boolean
 counter = "foo"     // counter is now a string
